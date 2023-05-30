@@ -3484,6 +3484,9 @@ input, select, textarea {
 				margin-left: 0;
 				padding-top: 3.5em;
 			}
+			.round-image {
+				display: none;
+			}
 
 		}
 
