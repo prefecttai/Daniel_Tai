@@ -3484,6 +3484,7 @@ input, select, textarea {
 				margin-left: 0;
 				padding-top: 3.5em;
 			}
+
 			.round-image {
 				display: none;
 			}
@@ -3880,7 +3881,6 @@ input, select, textarea {
 			#sidebar {
 				display: none;
 			}
-
 		}
 
 /* Intro */
@@ -3911,6 +3911,8 @@ input, select, textarea {
 					font-size: 1em;
 				}
 
+
+
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -3923,8 +3925,8 @@ input, select, textarea {
 
 		.round-image {
 			border-radius: 50%;
-		  }
-
+		}
+		  
 		.video-container {
 			display: flex;
 			flex-wrap: wrap;
